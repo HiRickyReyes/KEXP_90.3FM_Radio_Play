@@ -74,16 +74,16 @@ Future Learning Objectives: Better coding control over hover point text
 Future Learning Objectives: More intuitive display the role sampling plays in this visualization and analysis  
 Future Learning Objectives: Cloud and supercomputing 
 
-LINKS & RESOURCES:
+__LINKS & RESOURCES:__
 
 GitHub Profile: https://github.com/HiRickyReyes  
 GitHub Project Space: https://github.com/HiRickyReyes/kexpradioplay  
 Dataset: https://www.kaggle.com/datasets/eric27n/kexp-fm-song-plays  
 
-Resources Used:  
+_Resources Used:_  
 Python Version: 3.12.6  
 Packages: Pandas, Plotly (figure_factory, express, offline), time  
 
-In Text Citations:  
+_In Text Citations:_  
 Tamara Munzer, Visualization Analysis and Design (Boca Raton: CRC Press, 2014).  
 Jonathan Schwabish, Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks (New York: Columbia University Press, 2021). 
