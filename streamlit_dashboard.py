@@ -193,7 +193,7 @@ fig = px.scatter(
     height=800,
     width=1200,
     size_max=60,
-    color_discrete_sequence=px.colors.sequential.Plasma,
+    color_discrete_sequence=px.colors.qualitative.Light24,
 )
 
 fig.update_layout(
