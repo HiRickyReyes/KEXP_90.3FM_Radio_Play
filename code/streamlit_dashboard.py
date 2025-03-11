@@ -13,8 +13,7 @@ st.markdown(
 )
 
 # reading in data
-filepath = "dataset_assets/kexp_sample.csv"
-df = pd.read_csv(filepath, low_memory=False)
+df = pd.read_csv("dataset_assets/kexp_sample.csv")
 df = df[df["Artist"] != "(Various Artists) "]
 
 # load logo
