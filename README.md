@@ -17,7 +17,7 @@ This repository contains the following key components:
 ☑️ dataset_assets/ ➡️ Project assets, including:  
 &nbsp;&nbsp;&nbsp;&nbsp;kexp_sample.csv ➡️ Sample dataset used in the dashboard  
 &nbsp;&nbsp;&nbsp;&nbsp;kexp_logo.png – Visual branding/logo for the app  
-☑️ .devcontainer/ ➡️ Dev Container configuration 
+☑️ .devcontainer/ ➡️ Dev Container configuration  
 ☑️ .gitignore ➡️ Specifies files and folders to exclude from Git tracking  
 ☑️ README.md ➡️ Project overview and structure  
 ☑️ requirements.txt ➡️ Python dependencies required to run the dashboard  
