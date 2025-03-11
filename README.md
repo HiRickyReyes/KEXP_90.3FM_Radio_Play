@@ -12,16 +12,16 @@ _Last Updated_: see bottom of app page on link
 __GITHUB PROJECT STRUCTURE__  
 This repository contains the following key components:
 
-code/ – Development scripts and Jupyter notebooks  
-&nbsp;&nbsp;&nbsp;&nbsp;final_dataviz_kexp.ipynb – Data visualization and analysis notebook  
-dataset_assets/ – Project assets, including:  
-&nbsp;&nbsp;&nbsp;&nbsp;kexp_sample.csv – Sample dataset used in the dashboard  
+code/ 👉🏾 Development scripts and Jupyter notebooks  
+&nbsp;&nbsp;&nbsp;&nbsp;final_dataviz_kexp.ipynb 👉🏾 Data visualization and analysis notebook  
+dataset_assets/ 👉🏾 Project assets, including:  
+&nbsp;&nbsp;&nbsp;&nbsp;kexp_sample.csv 👉🏾 Sample dataset used in the dashboard  
 &nbsp;&nbsp;&nbsp;&nbsp;kexp_logo.png – Visual branding/logo for the app  
-.devcontainer/ – Dev Container configuration 
-.gitignore – Specifies files and folders to exclude from Git tracking  
-README.md – Project overview and structure  
-requirements.txt – Python dependencies required to run the dashboard  
-streamlit_dashboard.py – Main Streamlit app (entry point for deployment)  
+.devcontainer/ 👉🏾 Dev Container configuration 
+.gitignore 👉🏾 Specifies files and folders to exclude from Git tracking  
+README.md 👉🏾 Project overview and structure  
+requirements.txt 👉🏾 Python dependencies required to run the dashboard  
+streamlit_dashboard.py 👉🏾 Main Streamlit app (entry point for deployment)  
 
 __KEXP 90.3 FM RADIO PLAY VISUALIZATIONS__  
 After two quarters in the University of Chicago’s M.A. in Digital Studies program, I’ve developed a strong proficiency in using computational methods to explore the intersections of data, storytelling, and social inquiry. According to Jonathan Schwabish, “effective visualizations tell a story, guiding the viewer through the data while highlighting key insights and supporting evidence” (Schwabish 2021, 19). In an era where fact and fiction often blur along political lines, understanding how to analyze and manipulate data (in this case, using Python coding) is a crucial step towards fostering critical thinking and ensuring that data-driven narratives reflect truth rather than political manipulation. 
