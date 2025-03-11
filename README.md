@@ -74,7 +74,9 @@ Do-overs: Use of cloud and supercomputing for large datasets opens new possibili
 Future Learning Objectives: Better implement more robust interactivity tools  
 Future Learning Objectives: Better coding control over hover point text  
 Future Learning Objectives: More intuitive display the role sampling plays in this visualization and analysis  
-Future Learning Objectives: Cloud and supercomputing 
+Future Learning Objectives: Cloud and supercomputing  
+Future Learning Objectives: Readability on mobile devices (the output is small on a cell phone)  
+Future Learning Objectives: Creating an experience for users emphasizing higher speed use of the front-end app
 
 __LINKS & RESOURCES:__
 
