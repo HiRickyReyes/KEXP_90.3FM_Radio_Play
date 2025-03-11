@@ -21,7 +21,7 @@ III. Utilized the Pandas and Plotly libraries to create two key interactive visu
 IV. Iterated and adjusted workflows based on evolving technical skills, data insights, project and personal limitations- refining code efficiency, visualization clarity, and hypothesis testing: “Successful visualization design is inherently iterative, involving ongoing refinement as new insights emerge from the user testing and data exploration” (Munzer 2014, 69)  
 V. Presented the findings, lessons learned, and insights gained throughout the project development and execution process. 
 
-__HYPOTHESIS:__  
+__EXPLORATION & FUTURE HYPOTHESIS:__  
 As an avid longtime KEXP listener, I saw this dataset as an opportunity to explore intuitive questions that might be harder to answer in other forms of media where similar information isn’t as consistently collected. The first questions that came to mind centered on calculating and visualizing “top 10s” - a familiar, easily understandable format that lends itself to comparative analysis. But, in digging deeper, I wanted to think about how I could use these visualizations to answer a deeper question around contributions to the evolution of the station. While this is an exploratory data visualization project, I still wanted to think through how these visualizations could be the start of a deeper exploration or hypothesis question around the dataset.
 
 ___Lesson #1:___ _Data visualizations can stay surface-level or it can uncover deeper insights. The value is in not just the answers but the questions to push further analysis._
