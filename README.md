@@ -1,13 +1,13 @@
+# kexp radio play  
+A data viz final project visualizing over 20 years of KEXP radio play data.
+
+This project analyzes over 3 million rows of KEXP radio play data to explore how top hosts contribute to the discovery of new artists. It features interactive visualizations built with Python, Pandas, and Plotly.
+
 ___https://dataviz-kexp.streamlit.app___  
 
 _Source_: This visualization is based on exploratory analysis of the KEXP playlist dataset. The original analysis and dataset usage guide can be found at this Kaggle notebook.  
 _Sample_: This analysis is based on a 1% random sample of the full KEXP playlist dataset, which comprises 2,667,360 records. The sample ensures computational efficiency while maintaining the integrity and representativeness of the original data.  
 _Last Updated_: see bottom of app page on link  
-
-# kexp radio play
-A data viz final project visualizing over 20 years of KEXP radio play data.
-
-This project analyzes over 3 million rows of KEXP radio play data to explore how top hosts contribute to the discovery of new artists. It features interactive visualizations built with Python, Pandas, and Plotly.
 
 __KEXP 90.3 FM RADIO PLAY VISUALIZATIONS__  
 After two quarters in the University of Chicago’s M.A. in Digital Studies program, I’ve developed a strong proficiency in using computational methods to explore the intersections of data, storytelling, and social inquiry. According to Jonathan Schwabish, “effective visualizations tell a story, guiding the viewer through the data while highlighting key insights and supporting evidence” (Schwabish 2021, 19). In an era where fact and fiction often blur along political lines, understanding how to analyze and manipulate data (in this case, using Python coding) is a crucial step towards fostering critical thinking and ensuring that data-driven narratives reflect truth rather than political manipulation. 
