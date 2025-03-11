@@ -18,12 +18,12 @@ IV. Iterated and adjusted workflows based on evolving technical skills, data ins
 V. Presented the findings, lessons learned, and insights gained throughout the project development and execution process. 
 
 __HYPOTHESIS:__  
-As an avid longtime KEXP listener, I saw this dataset as an opportunity to explore intuitive questions that might be harder to answer in other forms of media where similar information isn’t as consistently collected. The first questions that came to mind centered on calculating and visualizing “top 10s” - a familiar, easily understandable format that lends itself to comparative analysis. But, in digging deeper, I wanted to think about how I could use these visualizations to answer a deeper question around contributions to the evolution of the station. 
+As an avid longtime KEXP listener, I saw this dataset as an opportunity to explore intuitive questions that might be harder to answer in other forms of media where similar information isn’t as consistently collected. The first questions that came to mind centered on calculating and visualizing “top 10s” - a familiar, easily understandable format that lends itself to comparative analysis. But, in digging deeper, I wanted to think about how I could use these visualizations to answer a deeper question around contributions to the evolution of the station. While this is an exploratory data visualization project, I still wanted to think through how these visualizations could be the start of a deeper exploration or hypothesis question around the dataset.
 
 ___Lesson #1:___ _Data visualizations can stay surface-level or it can uncover deeper insights. The value is in not just the answers but the questions to push further analysis._
 
-After thinking through interesting angles, the hypothesis I decided to explore is as follows:
-The most frequently played artists on KEXP are often introduced by the same top hosts who consistently highlight emerging talent. 
+After thinking through interesting angles, the hypothesis, if I were to have more time, I would probably a hypothesis like:  
+_The most frequently played artists on KEXP are often introduced by the same top hosts who consistently highlight emerging talent._ 
 
 __DATA REVIEW:__  
 The ‘KEXP-Playlist’ dataset was a CSV (comma-separated values) file containing approximately 3 million individual observations. As Munzner explains, large datasets present unique challenges: “Resource contraints, including computing power and memory, shape how data can be processed and visualized effectively” (Munzner 2014, 14). I experienced this firsthand what my computer struggled to process the full dataset. To overcome this limitation, I adjusted my approach by working with a smaller, representative sample, which allowed me to efficiently test my code, refine my methods, and ensure my visualizations functioned as intended before incorporating a larger portion of the dataset. 
