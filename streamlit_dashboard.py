@@ -5,53 +5,21 @@ import plotly.express as px
 import streamlit as st
 import datetime
 from PIL import Image
-import os
 
 # set streamlit page config
-st.set_page_config(page_title="KEXP Tastemakers Dashboard", layout="centered")
+st.set_page_config(layout="wide")
 st.markdown(
-    """
-<style>
-h1 {
-    font-size: 1.6rem;
-    text-align: center;
-}
-h2, h3 {
-    font-size: 1.3rem;
-}
-p, .stMarkdown {
-    font-size: 1rem;
-}
-img {
-    max-width: 100%;
-    height: auto;
-}
-div.block-container {
-    padding-top: 1rem;
-}
-</style>
-""",
-    unsafe_allow_html=True,
+    "<style>div.block-container{padding-top:1rem;}</style>", unsafe_allow_html=True
 )
-
 
 # reading in data
 filepath = "kexp_sample.csv"
-try:
-    df = pd.read_csv(filepath, low_memory=False)
-    df.columns = df.columns.str.strip()  # 📍 clean column headers
-except Exception as e:
-    st.error(f"Error loading CSV file: {e}")
-    st.stop()
+df = pd.read_csv(filepath, low_memory=False)
 df = df[df["Artist"] != "(Various Artists) "]
 
 # load logo
 logo_filepath = "kexp_logo.png"
-try:
-    image = Image.open(logo_filepath)
-    st.image(image, width=100)
-except Exception as e:
-    st.warning(f"Could not load logo image: {e}")
+image = Image.open(logo_filepath)
 
 # create columns for the logo and title
 col1, col2 = st.columns([0.1, 0.9])
