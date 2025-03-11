@@ -1,5 +1,9 @@
 ___https://dataviz-kexp.streamlit.app___  
 
+_Source_: This visualization is based on exploratory analysis of the KEXP playlist dataset. The original analysis and dataset usage guide can be found at this Kaggle notebook.  
+_Sample_: This analysis is based on a 1% random sample of the full KEXP playlist dataset, which comprises 2,667,360 records. The sample ensures computational efficiency while maintaining the integrity and representativeness of the original data.  
+_Last Updated_: see bottom of app page on link  
+
 # kexp radio play
 A data viz final project visualizing over 20 years of KEXP radio play data.
 
