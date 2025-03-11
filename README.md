@@ -1,12 +1,12 @@
 # kexp radio play  
-A data viz final project visualizing over 20 years of KEXP radio play data.
+A data viz final project exploring over 20 years of KEXP radio play data.
 
-This project analyzes over 3 million rows of KEXP radio play data to explore how top hosts contribute to the discovery of new artists. It features interactive visualizations built with Python, Pandas, and Plotly.
+This project explores trens based on a 1% sample of over 2,667,360 rows of KEXP radio play data to explore how top hosts contribute to the discovery of new artists. It features interactive visualizations built with Python, Pandas, and Plotly.
 
 ___https://dataviz-kexp.streamlit.app___  
 
 _Source_: This visualization is based on exploratory analysis of the KEXP playlist dataset. The original analysis and dataset usage guide can be found at this Kaggle notebook: https://www.kaggle.com/code/eric27n/kexp-fm-play-analysis  
-_Sample_: This analysis is based on a 1% random sample of the full KEXP playlist dataset, which comprises 2,667,360 records. The sample ensures computational efficiency while maintaining the integrity and representativeness of the original data.  
+_Sample_: This analysis uses a 1% random sample of the full KEXP playlist dataset, which comprises 2,667,360 records. The sample ensures computational efficiency while maintaining the integrity and representativeness of the original data.  
 _Last Updated_: see bottom of app page on link  
 
 __GITHUB PROJECT STRUCTURE__  
@@ -111,11 +111,12 @@ Python Version: 3.12.6
 Packages: Pandas, Plotly (figure_factory, express, offline), time  
 
 _In Text Citations:_  
-Tamara Munzer, Visualization Analysis and Design (Boca Raton: CRC Press, 2014).  
+Tamara Munzner, Visualization Analysis and Design (Boca Raton: CRC Press, 2014).  
 Jonathan Schwabish, Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks (New York: Columbia University Press, 2021).  
 
 __📬 CONTACT__  
 
-Project by Ricky Reyes (hirickyreyes@gmail.com)
+Project by Ricky Reyes  
+(for more information: https://www.rickyreyes.com/connect)
 
 
