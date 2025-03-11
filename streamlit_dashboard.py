@@ -13,12 +13,12 @@ st.markdown(
 )
 
 # reading in data
-filepath = "data/kexp_sample.csv"
+filepath = "kexp_sample.csv"
 df = pd.read_csv(filepath, low_memory=False)
 df = df[df["Artist"] != "(Various Artists) "]
 
 # load logo
-logo_filepath = "data/kexp_logo.png"
+logo_filepath = "kexp_logo.png"
 image = Image.open(logo_filepath)
 
 # create columns for the logo and title
