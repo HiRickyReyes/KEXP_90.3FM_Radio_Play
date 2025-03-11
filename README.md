@@ -100,7 +100,7 @@ Future Learning Objectives: Cloud and supercomputing
 Future Learning Objectives: Readability on mobile devices (the output is small on a cell phone)  
 Future Learning Objectives: Creating an experience for users emphasizing higher speed use of the front-end app
 
-__LINKS & RESOURCES:__
+__⌨️ LINKS & RESOURCES: ⌨️__
 
 GitHub Profile: https://github.com/HiRickyReyes  
 GitHub Project Space: https://github.com/HiRickyReyes/kexpradioplay  
@@ -114,7 +114,7 @@ _In Text Citations:_
 Tamara Munzner, Visualization Analysis and Design (Boca Raton: CRC Press, 2014).  
 Jonathan Schwabish, Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks (New York: Columbia University Press, 2021).  
 
-__📬 CONTACT__  
+__📬 CONTACT 📬__  
 
 Project by Ricky Reyes  
 (for more information: https://www.rickyreyes.com/connect)
