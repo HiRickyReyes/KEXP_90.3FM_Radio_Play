@@ -9,6 +9,18 @@ _Source_: This visualization is based on exploratory analysis of the KEXP playli
 _Sample_: This analysis is based on a 1% random sample of the full KEXP playlist dataset, which comprises 2,667,360 records. The sample ensures computational efficiency while maintaining the integrity and representativeness of the original data.  
 _Last Updated_: see bottom of app page on link  
 
+KEXP_90.3FM_Radio_Play/
+├── code/                  → Development scripts and Jupyter notebooks
+│   └── final_dataviz_kexp.ipynb
+├── dataset_assets/        → Project assets, including:
+│   ├── kexp_sample.csv       → Sample dataset used in the dashboard (for full dataset, see link at source)
+│   └── kexp_logo.png         → Visual branding/logo for the app
+├── .devcontainer/         → Dev Container configuration
+├── .gitignore             → Files and folders excluded from Git tracking
+├── README.md              → Project overview and structure
+├── requirements.txt       → Python dependencies needed to run the dashboard
+└── streamlit_dashboard.py → Main Streamlit app (entry point for deployment)
+
 __KEXP 90.3 FM RADIO PLAY VISUALIZATIONS__  
 After two quarters in the University of Chicago’s M.A. in Digital Studies program, I’ve developed a strong proficiency in using computational methods to explore the intersections of data, storytelling, and social inquiry. According to Jonathan Schwabish, “effective visualizations tell a story, guiding the viewer through the data while highlighting key insights and supporting evidence” (Schwabish 2021, 19). In an era where fact and fiction often blur along political lines, understanding how to analyze and manipulate data (in this case, using Python coding) is a crucial step towards fostering critical thinking and ensuring that data-driven narratives reflect truth rather than political manipulation. 
 
