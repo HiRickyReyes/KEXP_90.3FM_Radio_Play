@@ -13,10 +13,10 @@ __GITHUB PROJECT STRUCTURE__
 This repository contains the following key components:
 
 code/ __➡__ Development scripts and Jupyter notebooks  
-&nbsp;&nbsp;&nbsp;&nbsp;final_dataviz_kexp.ipynb __➡__ Data visualization and analysis notebook  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;final_dataviz_kexp.ipynb __➡__ Data visualization and analysis notebook  
 dataset_assets/ __➡__ Project assets, including:  
-&nbsp;&nbsp;&nbsp;&nbsp;kexp_sample.csv __➡__ Sample dataset used in the dashboard  
-&nbsp;&nbsp;&nbsp;&nbsp;kexp_logo.png – Visual branding/logo for the app  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kexp_sample.csv __➡__ Sample dataset used in the dashboard  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kexp_logo.png – Visual branding/logo for the app  
 .devcontainer/ __➡__ Dev Container configuration  
 .gitignore __➡__ Specifies files and folders to exclude from Git tracking  
 README.md __➡__ Project overview and structure  
