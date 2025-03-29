@@ -1,5 +1,5 @@
 # Kexp Radio Play 
-A data viz final project exploring over 20 years of KEXP radio play data.
+A data viz project exploring over 20 years of KEXP radio play data.
 
 This project explores trends based on a 1% sample of over 2,667,360 rows of KEXP radio play data to explore how top hosts contribute to the discovery of new artists. It features interactive visualizations built with Python, Pandas, and Plotly.
 
